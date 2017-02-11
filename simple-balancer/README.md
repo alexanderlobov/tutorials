@@ -29,5 +29,6 @@ To run performance tests install Apache Bench, and
 
 Installing Apache bench on mac
 
-   brew tap homebrew/apache
-   brew install ab
+    brew tap homebrew/apache
+    brew install ab
+
