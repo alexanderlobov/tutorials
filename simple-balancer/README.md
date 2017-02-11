@@ -26,3 +26,8 @@ vagrant cheatsheet:
 To run performance tests install Apache Bench, and
 
     ab -c 40 -n 1000 http://192.168.33.10
+
+Installing Apache bench on mac
+
+   brew tap homebrew/apache
+   brew install ab
